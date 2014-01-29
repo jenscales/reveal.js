@@ -32,6 +32,10 @@ body {
   font-size: 0.9em;
 }
 
+.names {
+  text-align: center;
+}
+
 ::selection {
   color: white;
   background: rgba(79, 64, 28, 0.99);
